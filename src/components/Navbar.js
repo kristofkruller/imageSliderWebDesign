@@ -62,7 +62,7 @@ const MenuBars = styled.i`
         position: absolute;
         top: 0;
         right: 0;
-        transform: translate(-50%, 25%);
+        transform: translate(-70%, 25%);
         background-repeat: no-repeat;
     } 
 
